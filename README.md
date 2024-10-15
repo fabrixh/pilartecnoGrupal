@@ -13,6 +13,7 @@
 
 
 
+
 ### Task01 (Criado Agustin): 
 Agregar un botón de "Limpiar" (reset) al formulario para permitir que el usuario borre todos los campos ingresados.
 
@@ -28,4 +29,4 @@ Cambiar el texto del botón de "Enviar" a "Enviar Formulario".
 
 ### Task04: 
 Agregar un borde o sombra alrededor del formulario para que destaque visualmente en la página.
-Trello - Actualizado para la segunda sesión
+Trello - Actualizado para la segunda sesión.
